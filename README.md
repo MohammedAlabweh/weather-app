@@ -81,25 +81,21 @@ No server or build tools are required.
 📁 Project Structure
 
 weather-app/
-│
 ├── index.html
 ├── style.css
 ├── script.js
-│
-├── weather/
-│   ├── clear.svg
-│   ├── clouds.svg
-│   ├── rain.svg
-│   ├── snow.svg
-│   ├── thunderstorm.svg
-│   └── atmosphere.svg
-│
-├── message/
-│   ├── search-city.png
-│   └── not-found.png
-│
-└── bg.jpg
-
+├── assets/
+│   ├── bg.jpg
+│   ├── message/
+│   │   ├── search-city.png
+│   │   └── not-found.png
+│   └── weather/
+│       ├── clear.svg
+│       ├── clouds.svg
+│       ├── rain.svg
+│       ├── snow.svg
+│       ├── thunderstorm.svg
+│       └── atmosphere.svg
 
 ⸻
 
