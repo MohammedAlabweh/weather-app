@@ -4,7 +4,7 @@ A modern weather forecast web application built using HTML, CSS, and JavaScript,
 The application allows users to search for any city and view real-time weather information along with a 5-day forecast, presented in a clean glassmorphism-inspired interface.
 
 ⸻
-
+```
 ✨ Features
 	•	🔍 Search weather by city name
 	•	🌡️ Display current temperature in Celsius
@@ -16,19 +16,19 @@ The application allows users to search for any city and view real-time weather i
 	•	🖼️ Dynamic weather icons based on conditions
 	•	🧊 Glassmorphism UI design
 	•	❌ Error handling for invalid city searches
-
+```
 ⸻
-
+```
 🛠️ Tech Stack
 	•	HTML5 – Application structure
 	•	CSS3 – Styling, glassmorphism effects, layout
 	•	JavaScript (ES6+) – Logic, DOM manipulation, API integration
 	•	OpenWeatherMap API – Weather and forecast data
-
+```
 ⸻
 
 📸 UI Overview
-
+```
 The application has three main states:
 	1.	Search City
 Initial screen prompting the user to search for a city.
@@ -36,7 +36,7 @@ Initial screen prompting the user to search for a city.
 Displays current weather details and a 5-day forecast.
 	3.	Not Found
 Displayed when a city search returns no results.
-
+```
 ⸻
 
 🔑 API Usage
@@ -79,7 +79,7 @@ No server or build tools are required.
 ⸻
 
 📁 Project Structure
-
+```
 weather-app/
 ├── index.html
 ├── style.css
@@ -96,9 +96,9 @@ weather-app/
 │       ├── snow.svg
 │       ├── thunderstorm.svg
 │       └── atmosphere.svg
-
+```
 ⸻
-
+```
 🚀 Future Improvements
 	•	🌍 Auto-detect user location
 	•	🌙 Dark / light mode toggle
@@ -106,7 +106,7 @@ weather-app/
 	•	🌡️ Temperature unit toggle (°C / °F)
 	•	🔐 Secure API key handling
 	•	📱 Additional mobile optimizations
-
+```
 ⸻
 
 👤 Author
